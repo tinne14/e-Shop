@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "411434617896",
+    "project_id": "eshop-f3e28",
+    "storage_bucket": "eshop-f3e28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411434617896:android:2d9a787249dbbe5020b91d",
+        "android_client_info": {
+          "package_name": "com.anis.app.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411434617896-ue1q4gctrin9cvbh2rtdpop9ft2fb01i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHHu5eKtuE6hlIeCOo5sOmNjaPnLKfkxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411434617896-ue1q4gctrin9cvbh2rtdpop9ft2fb01i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
